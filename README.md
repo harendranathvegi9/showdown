@@ -109,7 +109,7 @@ var converter = new showdown.Converter(),
 
 Both examples should output...
 
-    <h1 id="hellomarkdown">hello, markdown!</h1>
+    <h1 id="hello-markdown">hello, markdown!</h1>
 
 ## Options
 
